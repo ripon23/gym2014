@@ -8,8 +8,7 @@ login / logout / admin stuff thats always required.
 
 ## Original Authors
 
-**Ripon** [riponmailbox@gmail.com]
-http://aamra24.com
+**Ripon** [riponmailbox@gmail.com] [web: http://aamra24.com/]
 		
 ## Key Features & Design Goals
 
